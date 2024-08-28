@@ -1,0 +1,45 @@
+.poza
+{
+    height:300px;
+    width:600px;
+    margin-left:25%;
+    border-radius:50px;
+    border:20px solid black;
+   
+}
+
+@media(min-width:720px)
+{
+  body 
+  {
+   background-color: blue;
+  }
+
+  h1 
+  {
+    font-size:small;
+  }
+}
+
+@media(max-width:720px)
+{
+    body
+    {
+     background-color: blueviolet;
+    }
+}
+
+.text > .ghid
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+}
+
+
+.text2
+{
+  font-family: "Roboto", sans-serif;
+  background-color: coral;
+  margin-top:35%;
+  text-align: center;
+}
